@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/migliaresematteo.github.io/bs5-pianissimo/static/css/main.98b87747.css",
+    "main.js": "/migliaresematteo.github.io/bs5-pianissimo/static/js/main.fad93b0e.js",
+    "static/js/453.97c24411.chunk.js": "/migliaresematteo.github.io/bs5-pianissimo/static/js/453.97c24411.chunk.js",
+    "static/media/pic.webp": "/migliaresematteo.github.io/bs5-pianissimo/static/media/pic.5dab5d7699b7ea21695d.webp",
+    "static/media/frame3.png": "/migliaresematteo.github.io/bs5-pianissimo/static/media/frame3.2d7ce6f65986e199316c.png",
+    "index.html": "/migliaresematteo.github.io/bs5-pianissimo/index.html",
+    "static/media/logo.svg": "/migliaresematteo.github.io/bs5-pianissimo/static/media/logo.79ae65ef74bdddeea6142dc6be7e816c.svg",
+    "main.98b87747.css.map": "/migliaresematteo.github.io/bs5-pianissimo/static/css/main.98b87747.css.map",
+    "main.fad93b0e.js.map": "/migliaresematteo.github.io/bs5-pianissimo/static/js/main.fad93b0e.js.map",
+    "453.97c24411.chunk.js.map": "/migliaresematteo.github.io/bs5-pianissimo/static/js/453.97c24411.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98b87747.css",
+    "static/js/main.fad93b0e.js"
+  ]
+}
