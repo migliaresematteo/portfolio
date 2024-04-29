@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bs5-pianissimo/static/css/main.98b87747.css",
+    "main.js": "/bs5-pianissimo/static/js/main.682bbe0f.js",
+    "static/js/453.97c24411.chunk.js": "/bs5-pianissimo/static/js/453.97c24411.chunk.js",
+    "static/media/pic.webp": "/bs5-pianissimo/static/media/pic.5dab5d7699b7ea21695d.webp",
+    "static/media/frame3.png": "/bs5-pianissimo/static/media/frame3.2d7ce6f65986e199316c.png",
+    "static/media/logo.svg": "/bs5-pianissimo/static/media/logo.79ae65ef74bdddeea6142dc6be7e816c.svg",
+    "index.html": "/bs5-pianissimo/index.html",
+    "main.98b87747.css.map": "/bs5-pianissimo/static/css/main.98b87747.css.map",
+    "main.682bbe0f.js.map": "/bs5-pianissimo/static/js/main.682bbe0f.js.map",
+    "453.97c24411.chunk.js.map": "/bs5-pianissimo/static/js/453.97c24411.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98b87747.css",
+    "static/js/main.682bbe0f.js"
+  ]
+}
