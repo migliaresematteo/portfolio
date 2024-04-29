@@ -1,7 +1,7 @@
 {
   "name": "bs5-pianissimo",
   "version": "0.1.0",
-  "homepage": "migliaresematteo.github.io/bs5-pianissimo",
+  "homepage": "./public/index.html",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
